@@ -1,1 +1,6 @@
-Teste
+Projeto A3 , feito pelo aluno Pedro Correia.
+
+O intuito é  desenvolver uma tela que represente uma
+apresentação do meu perfil pessoal e profissional, de modo
+que eu possa inserir informações e também terá links para minhas
+redes sociais.
